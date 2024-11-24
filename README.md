@@ -2,4 +2,5 @@
 
 <img src='OReilly-russian.png' width=300>
 
-https://batrachos.com/sites/default/files/pictures/Books/Bruce_Bruce_2018_Practical%20Statistics%20for%20Data%20Scientists.pdf
+У меня второе издание в бумажном варианте, нашел в пдф только <a href="[http://www.vertex-academy.com](https://batrachos.com/sites/default/files/pictures/Books/Bruce_Bruce_2018_Practical%20Statistics%20for%20Data%20Scientists.pdf)">первое</a>
+
